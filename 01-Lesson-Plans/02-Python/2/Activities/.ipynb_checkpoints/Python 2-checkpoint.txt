@@ -1,0 +1,54 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+\
+Python 2 (12-8-21)\
+\
+\'95 Variable: Key word that stores a value / you need a variable as you can change the value\
+  * Integer \'96 whole numbers\
+  * Float \'96 decimal number \
+  * String \'96 alphabetical letters, symbols, anything on quotes \
+    * f\'92 string (format): look for curly brackets and use them as variables\
+  * Boolean \'96 True or False (capital T and F)\
+\
+\'95 List: Indicates is a list because of square brackets and commas to divide the elements\
+  * Made of elements \
+  * Index based\
+  * Start in index based \'910\'92\
+  * No spaces after the commas \
+  * Can store list inside of list\
+  * Are iterable (can loop thru them)\
+  * Starting at -1 will start from the back to the front\
+\
+\'95 Tuple: works very similar to lists\
+  * It is immutable\
+  * Index based\
+  * Tuple unpacking \
+\
+\'95 Functions: execution of one or many steps\
+  * you define a function by using def\
+  * Parenthesis is used for functions\
+  * Print will show the function\
+  * Shit tab will show the documentation\
+  * type() will show the type of value\
+  * len() will show how many elements\
+  * .index() will return the index number of the value in a list\
+  * .append() will add a value to the list at the end of the list\
+  * .remove() will remove a value (delete)\
+  * .pop() will pop it out of the list (copy and paste)\
+  * .items() will show everything on the list or dictionary \
+  * for i in will create a list print\
+  * : in python means we are going to start a code block\
+  * functions have arguments or parameters\
+  * return will return the result back to a variable\
+\
+\'95 Dictionaries: key \'96 value pairs / indicates is a dictionary because of the curly brackets\
+  * \{\'93key\'94:\'93value\'94\}\
+  * Dictionaries don\'92t have concepts of append / pop / remove\'85\
+  * Can loop\
+}

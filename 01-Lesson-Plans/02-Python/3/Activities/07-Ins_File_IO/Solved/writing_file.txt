@@ -1,0 +1,2 @@
+This is an output file 
+This is the next line
